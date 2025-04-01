@@ -27,7 +27,9 @@ npm install
 
 #### Start the Apollo Server:
 
+```sh
 node server.js
+```
 The server will be running at http://localhost:4000/.
 
 ---
@@ -44,5 +46,7 @@ npm install
 
 Start the React application:
 
+```sh
 npm run dev
+```
 The application will be available at http://localhost:5173/

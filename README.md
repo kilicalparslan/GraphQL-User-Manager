@@ -17,8 +17,11 @@ It provides a simple user management system where users can be listed, added, re
 
 ### **1. Backend (GraphQL Server)**  
 Navigate to the **server** directory and install dependencies:  
+
+```sh
 cd server
 npm install
+```
 
 ---
 
@@ -32,8 +35,10 @@ The server will be running at http://localhost:4000/.
 ## **2. Frontend (React Client)** 
 Navigate to the client directory and install dependencies:
 
-cd client
+```sh
+cd server
 npm install
+```
 
 ---
 

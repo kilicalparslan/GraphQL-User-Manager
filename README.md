@@ -34,7 +34,7 @@ The server will be running at http://localhost:4000/.
 
 ---
 
-## **2. Frontend (React Client)** 
+### **2. Frontend (React Client)** 
 Navigate to the client directory and install dependencies:
 
 ```sh
